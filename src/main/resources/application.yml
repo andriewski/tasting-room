@@ -1,0 +1,8 @@
+spring:
+    application:
+        name: tasting-room
+
+logging:
+    level:
+        org.springframework: debug
+        by.mark: debug
