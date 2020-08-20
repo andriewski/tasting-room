@@ -9,7 +9,7 @@ spring:
             password: MySuperSecretPassword
 eureka:
     instance:
-        prefer-ip-address: true
+        prefer-ip-address: false
         hostname: tasting-room
     client:
         service-url:
